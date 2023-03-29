@@ -1,5 +1,4 @@
 '''
-PyPower Projects
 Emotion Detection Using AI
 '''
 
